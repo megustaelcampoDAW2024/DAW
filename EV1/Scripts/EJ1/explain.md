@@ -2,4 +2,4 @@
 ```Ubuntu
 #!/bin/bash
 ```
-## Indica que el script debe ejecutarse con bash
+### Indica que el script debe ejecutarse con bash
