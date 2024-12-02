@@ -1,4 +1,4 @@
-#Script 2 - Explain
+# Script 2 - Explain
 ## Similar al script anterior, pero verifica dos parámetros
 
 ```Ubuntu
