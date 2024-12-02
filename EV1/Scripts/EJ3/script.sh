@@ -1,9 +1,15 @@
 #!/bin/bash
 
-# Solicitar información al usuario
-read -p "Introduce el título de la página: " titulo
-read -p "Introduce la cabecera: " cabecera
-read -p "Introduce el mensaje: " mensaje
+# Verificar si se proporcionaron el título, la cabecera y el mensaje como parámetros
+if [ $# -ne 3 ]; then
+  echo "Error: Sintaxis incorrecta."
+  echo "Uso: $0 <titulo> <cabecera> <mensaje>"
+  exit 1
+fi
+
+titulo=$1
+cabecera=$2
+mensaje=$3
 
 # Crear el contenido de la página web
 cat << EOF > index.html
@@ -19,4 +25,4 @@ cat << EOF > index.html
 </html>
 EOF
 
-echo "Página web creada con éxito: index.html"
+echo "Página web creada correctamente: index.html"
