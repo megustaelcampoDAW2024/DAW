@@ -1,13 +1,14 @@
 #!/bin/bash
 
-# Verificar si se proporcionaron el dominio y la IP como argumentos
-if [ -z "$1" ] || [ -z "$2" ]; then
-  echo "Error: Debe proporcionar un dominio y una IP como argumentos."
+# Verificar si se proporcionaron el dominio y la IP como parámetros
+if [ $# -ne 2 ]; then
+  echo "Error: Sintaxis incorrecta."
+  echo "Uso: $0 <dominio> <ip>"
   exit 1
 fi
 
-dominio="$1"
-ip="$2"
+dominio=$1
+ip=$2
 archivo_hosts="/etc/hosts"
 
 # Verificar si el dominio ya existe en el archivo hosts
@@ -19,4 +20,4 @@ fi
 # Añadir el dominio y la IP al archivo hosts
 echo "$ip $dominio" >> "$archivo_hosts"
 
-echo "Dominio $dominio añadido correctamente con la IP $ip."
+echo "Dominio $dominio añadido correctamente al archivo hosts."
