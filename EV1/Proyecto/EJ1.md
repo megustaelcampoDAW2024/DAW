@@ -1,4 +1,4 @@
-# Ejercicio 1
+# Ejercicio 1: Instalación del Servidor Web Apache
 ## 1. Instalación de Apache
 ### Actualizar los paquetes:
 ```bash
