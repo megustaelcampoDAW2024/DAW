@@ -109,3 +109,4 @@ sudo systemctl reload nginx
 ### 4.4 Accede a phpMyAdmin desde tu navegador:
  - Visita http://servidor2.centro.intranet:8080/phpmyadmin.
  - Inicia sesión con las credenciales de tu base de datos.
+![Screenshot 2024-12-05 002755](https://github.com/user-attachments/assets/0c116c01-c34d-4e11-946b-d0631725cfad)
