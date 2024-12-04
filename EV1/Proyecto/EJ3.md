@@ -58,6 +58,6 @@ define( 'DB_COLLATE', '' );
 
 ## 4. Completar la Instalación de WordPress
 ### Sigue las instrucciones para:
-#### Seleccionar el idioma.
-#### Configurar el título del sitio, el usuario administrador, y la contraseña.
-#### Completar la instalación.
+#### - Seleccionar el idioma.
+#### - Configurar el título del sitio, el usuario administrador, y la contraseña.
+#### - Completar la instalación.
