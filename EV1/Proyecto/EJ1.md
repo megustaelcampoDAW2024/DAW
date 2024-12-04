@@ -4,6 +4,8 @@
 ```bash
 sudo apt update && sudo apt upgrade -y
 ```
+![Link Foto](https://github.com/user-attachments/assets/a17a17ea-796f-4ad9-bd7c-a7852e4d910b)
+
 ### Instalar Apache:
 ```bash
 sudo apt install apache2 -y
