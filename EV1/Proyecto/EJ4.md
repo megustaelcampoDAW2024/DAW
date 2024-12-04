@@ -64,6 +64,3 @@ def application(environ, start_response):
 ```bash
 sudo systemctl restart apache2
 ```
-```bash
-echo "<h1>Bienvenido a centro.intranet</h1>" | sudo tee /var/www/centro.intranet/index.html
-```
