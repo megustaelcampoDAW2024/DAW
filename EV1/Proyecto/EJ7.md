@@ -1,4 +1,4 @@
-# Ejercicio 6: Instalar y Configurar AWStats
+# Ejercicio 7: Instalar y Configurar AWStats
 ## 1. Instalar AWStats
 ### 1.1 Instala AWStats mediante el gestor de paquetes
 ```bash
