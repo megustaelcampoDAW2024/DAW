@@ -142,7 +142,7 @@ python3 app.py
 sudo nano /etc/systemd/system/departamentos.service
 ```
 ### Contenido del archivo:
-```Ubuntu
+```ini
 [Unit]
 Description=Aplicación Flask para departamentos
 After=network.target
