@@ -14,7 +14,7 @@ sudo htpasswd -c /etc/apache2/.htpasswd usuario
 sudo nano /etc/apache2/sites-available/departamentos.centro.intranet.conf
 ```
 ### 2.2 Modifica la sección <Directory> para incluir las directivas de autenticación
-```bash
+```apache
 <Directory /var/www/departamentos.centro.intranet>
     AllowOverride All
     Require all granted
