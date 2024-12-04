@@ -79,6 +79,9 @@ Añade esta linea:
 ```
 ![Screenshot 2024-12-05 001044](https://github.com/user-attachments/assets/cae1b640-575f-4bad-a6c8-1a7c15da1d08)
 
+### 3.3 Abre tu navegador y accede a http://servidor2.centro.intranet:8080. Deberías ver la página de información de PHP.
+![Screenshot 2024-12-05 002417](https://github.com/user-attachments/assets/5d56c841-29c2-4ffa-a036-08b38c4d3ed0)
+
 ## 4. Instalar y Configurar phpMyAdmin
 ### 4.1 Instala phpMyAdmin
 ```bash
