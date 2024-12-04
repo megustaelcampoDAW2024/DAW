@@ -60,3 +60,7 @@ ScriptAlias /awstats/ "/usr/lib/cgi-bin/"
 sudo a2ensite awstats
 sudo systemctl reload apache2
 ```
+
+## 5. Acceder a AWStats
+  -  Abre tu navegador y visita http://centro.intranet/awstats/awstats.pl?config=centro.intranet.
+  -  Deberías ver la interfaz de AWStats con las estadísticas de tu servidor.
