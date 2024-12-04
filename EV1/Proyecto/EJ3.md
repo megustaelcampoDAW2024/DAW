@@ -65,12 +65,12 @@ define( 'DB_COLLATE', '' );
 ## 4. Completar la Instalación de WordPress
 ### 4.1 Abre tu navegador y accede a http://centro.intranet
 ### 4.2 Sigue las instrucciones para:
-#### - Seleccionar el idioma.
+- Seleccionar el idioma.
 ![Screenshot 2024-12-04 202734](https://github.com/user-attachments/assets/d345a351-64c1-4c31-82f4-4a3af7f354c3)
 
-#### - Configurar el título del sitio, el usuario administrador, y la contraseña.
+- Configurar el título del sitio, el usuario administrador, y la contraseña.
 ![Screenshot 2024-12-04 202939](https://github.com/user-attachments/assets/8d4cd5e8-6477-43ef-9c7b-c37843735683)
 
-#### - Completar la instalación.
+- Completar la instalación.
 ![Screenshot 2024-12-04 203033](https://github.com/user-attachments/assets/83f7f928-5d9a-44a6-a3b1-8d1a9ba12aeb)
 ![Screenshot 2024-12-04 203055](https://github.com/user-attachments/assets/64a9a6d3-4241-424e-84dd-7ab9ae1e72ce)
