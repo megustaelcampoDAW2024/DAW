@@ -31,7 +31,7 @@ sudo nano /etc/apache2/sites-available/centro.intranet.conf
 
 ```
 Contenido del archivo:
-```Ubuntu
+```less
 <VirtualHost *:80>
     ServerName centro.intranet
     DocumentRoot /var/www/centro.intranet
@@ -47,7 +47,7 @@ Para departamentos.centro.intranet: Crea un archivo de configuración en /etc/ap
 sudo nano /etc/apache2/sites-available/departamentos.centro.intranet.conf
 ```
 Contenido del archivo:
-```Ubuntu
+```less
 <VirtualHost *:80>
     ServerName departamentos.centro.intranet
     DocumentRoot /var/www/departamentos.centro.intranet
