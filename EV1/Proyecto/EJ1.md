@@ -1,7 +1,7 @@
 # Ejercicio 1
 ## 1. Instalación de Apache
 ### Actualizar los paquetes:
-```Ubuntu
+```bash
 sudo apt update && sudo apt upgrade -y
 ```
 ### Instalar Apache:
