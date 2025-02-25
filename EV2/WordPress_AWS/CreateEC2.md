@@ -1,6 +1,6 @@
 # Creación de Instancias (EC2) e Instalación de PHP y Apache
 
-### 2. Crear una instancia EC2
+## 2. Crear una instancia EC2
 
 - **Paso 1**: Accedemos al panel de creacion de instancias
   - Completamos el nombre como: `serverWordPress`
@@ -28,7 +28,7 @@ Comprobamos que podemos acceder (en mi caso accedo por IP)
 
 ![image](https://github.com/user-attachments/assets/5678ea1b-1314-4653-8fa0-d7ef75b457b6)
 
-### 3. Instalación de PHP y Apache
+## 3. Instalación de PHP y Apache
 
 - **Paso 1:** Instalamos apache con `sudo apt install apache2`
 
