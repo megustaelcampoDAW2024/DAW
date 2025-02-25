@@ -1,6 +1,6 @@
 # Creación de Subredes VPC
 ### Aquí veremos cómo crearemos la infraestructura de la subredes públicas y privadas
-### **1. ¿Cómo crear una VPC?**
+## **1. ¿Cómo crear una VPC?**
 - **Paso 1:** Accedemos a el `Laboratorio` > `VPC` > `Create VPC`
 
 ![image](https://github.com/user-attachments/assets/c4a35485-d3cc-414e-873b-11abda279eee)
