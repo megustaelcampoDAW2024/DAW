@@ -34,6 +34,6 @@
 
 ![image](https://github.com/user-attachments/assets/f6ce0734-728e-4880-91f8-d4b1d396086e)
 
-Una vez se cree el flujo de trabajo, clicamos `Ver VPC`. Aquí podremos ver la información un mapa conceptual de las subredes privadas:
+Una vez se cree el flujo de trabajo, clicamos `Ver VPC`. Aquí podremos ver la información, además de un mapa conceptual de las subredes privadas:
 
 ![image](https://github.com/user-attachments/assets/13051d4a-4951-4d19-9aa1-6704bcbe92a4)
