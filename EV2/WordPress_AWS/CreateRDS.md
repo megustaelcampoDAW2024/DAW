@@ -1,6 +1,6 @@
 # Creación de RDS para la BDD y Conexión a EC2
 
-### 4. Creacion de RDS
+## 4. Creación de RDS
 
 - **Paso 1:** Accedemos al panel de creación de RDS
   - Seleccionamos MySQL como BDD
@@ -39,7 +39,7 @@
 
 ![image](https://github.com/user-attachments/assets/e9cd2c2f-953c-484b-a141-a42cf87e2b79)
 
-### Conexion a EC2
+## 5. Conexión a EC2
 
 Copiamos el `Punto de Enlace` para más adelante
 
