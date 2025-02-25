@@ -38,9 +38,12 @@ Comprobamos que podemos acceder (en mi caso accedo por IP)
 
 ![image](https://github.com/user-attachments/assets/5847b441-c4fc-4267-bb49-c8a46e05d58b)
 
-- **Paso 3:** Comprobamos el estado de apache con `sudo systemctl status apache2` o prodíamos comprobarlo accediendo a traves del navegador accediendo por la IP
+- **Paso 3:** Comprobamos el estado de apache con `sudo systemctl status apache2` o prodíamos comprobarlo accediendo a traves del navegador accediendo por la IP pública automática
 
 ![image](https://github.com/user-attachments/assets/b6c00af7-625f-40be-b17a-31710f8b6483)
+
+![image](https://github.com/user-attachments/assets/5b255a17-a89c-452c-943f-d55f279fe451)
+![image](https://github.com/user-attachments/assets/7d44a19c-0bd7-45c5-9aa2-8fa38f777791)
 
 - **Paso 4:** Actualizamos con `sudo apt -y update` e instalamos php8.3 con `sudo apt install php8.3 libapache2-mod-php8.3 php8.3-c1i`
 
