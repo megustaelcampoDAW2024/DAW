@@ -28,18 +28,26 @@ Comprobamos que podemos acceder (en mi caso accedo por IP)
 
 ![image](https://github.com/user-attachments/assets/5678ea1b-1314-4653-8fa0-d7ef75b457b6)
 
-# PHP y Apache
+### 3. Instalación de PHP y Apache
+
+- **Paso 1:** Instalamos apache con `sudo apt install apache2`
 
 ![image](https://github.com/user-attachments/assets/30ebff6c-9065-48ec-8c1c-16b2f7c34fe0)
 
+- **Paso 2:** Lo iniciamos con `sudo systemctl start apache2` y `sudo systemctl enable apache2`
+
 ![image](https://github.com/user-attachments/assets/5847b441-c4fc-4267-bb49-c8a46e05d58b)
+
+- **Paso 3:** Comprobamos el estado de apache con `sudo systemctl status apache2` o prodíamos comprobarlo accediendo a traves del navegador accediendo por la IP
 
 ![image](https://github.com/user-attachments/assets/b6c00af7-625f-40be-b17a-31710f8b6483)
 
-![image](https://github.com/user-attachments/assets/2fedd5fd-a68b-4cb7-b683-f83a3a6088ef)
+- **Paso 4:** Actualizamos con `sudo apt -y update` e instalamos php8.3 con `sudo apt install php8.3 libapache2-mod-php8.3 php8.3-c1i`
 
 ![image](https://github.com/user-attachments/assets/621dd701-92b9-4fbc-b9bc-9440792cf407)
 
 ![image](https://github.com/user-attachments/assets/b564ee3e-192d-4d0c-ba04-ea6d6f49f615)
+
+- **Paso 5:** Reiniciamos apache con `sudo systemctl restart apache2`
 
 ![image](https://github.com/user-attachments/assets/e59e42d3-f8e8-49be-81ec-68330b3b12db)
