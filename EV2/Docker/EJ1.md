@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ece7587e-761c-40d6-995e-2715ebdd0da5)# Ejercicio 1 - Inslación Docker
+# Ejercicio 1 - Inslación Docker
 
 Comenzamos actualizando con:
 ```shell
